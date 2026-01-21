@@ -24,3 +24,4 @@ z wykorzystaniem narzędzi GPG i OpenSSL.
 ## Autorzy
 - Marcel Maciejski
 - Szymon Goska
+  ## Rezultaty oraz skrypty znajdują się w plikach pdf w SRC
