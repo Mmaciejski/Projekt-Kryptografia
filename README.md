@@ -16,11 +16,11 @@ z wykorzystaniem narzędzi GPG i OpenSSL.
 - GPG
 - OpenSSL
 ## Instalacja i weryfikacja narzędzi
-sudo apt update
-sudo apt install -y gnupg openssl
-Sprawdzenie poprawności
-gpg --version
-openssl version
+- sudo apt update
+- sudo apt install -y gnupg openssl
+- Sprawdzenie poprawności
+- gpg --version
+- openssl version
 ## Autorzy
 - Marcel Maciejski
 - Szymon Goska
