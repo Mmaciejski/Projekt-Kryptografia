@@ -27,3 +27,4 @@ z wykorzystaniem narzędzi GPG i OpenSSL.
 - Dominik Olewiński
 - Adrian Paziewski
 - Daniel Pieńczykowski
+- Jan Rozenbajgier
