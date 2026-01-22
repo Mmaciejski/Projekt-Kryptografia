@@ -24,3 +24,6 @@ z wykorzystaniem narzędzi GPG i OpenSSL.
 ## Autorzy
 - Marcel Maciejski
 - Szymon Goska
+- Dominik Olewiński
+- Adrian Paziewski
+- Daniel Pieńczykowski
